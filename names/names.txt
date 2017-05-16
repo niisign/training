@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Kwamlah Jonadab
+=======
+Frederick Holm
+>>>>>>> f4212dfac7dfdd69359e07eea781a4fd29db9126
 =======
 Solomon_Bortey
 >>>>>>> 7eb39e5b02c78fae6a1e5462ae25ff6326afcf95
