@@ -1,5 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kbj
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Kwamlah Jonadab
+=======
+Frederick Holm
+>>>>>>> f4212dfac7dfdd69359e07eea781a4fd29db9126
+=======
+Solomon_Bortey
+>>>>>>> 7eb39e5b02c78fae6a1e5462ae25ff6326afcf95
+>>>>>>> 3356b3424a6bb4592ca469e7c490a5959b870946
 =======
 Solomon Appier-Sign
 >>>>>>> 46fcec1d4a9258937146d4123afeaa67d9fd2470
